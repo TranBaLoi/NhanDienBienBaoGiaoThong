@@ -1,2 +1,2 @@
-# NhanDienBienBaoGiaoThong
-BTL-NMTTNT sử dụng thuật toán CNN
+# nhandienbienbao
+nhận diện biển báo giao thông
